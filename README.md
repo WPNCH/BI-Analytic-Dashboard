@@ -1,2 +1,2 @@
 # BI-Analytic-Dashboard
-Showcase of My Real Word Data Analytic Project
+__Showcase of My Real Word Data Analytic Project (Some Apperance of Dashboard was modifed to conceal sensitive data)__
